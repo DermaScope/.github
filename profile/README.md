@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="DermaScope logo" width="140" />
-
-# DermaScope
-
-**AI-powered skin screening platform for early skin-risk awareness.**
-
 DermaScope is a capstone project built for Coding Camp 2026 powered by DBS Foundation. The platform helps users perform an initial skin scan, review AI-assisted risk information, chat with a dermatology assistant, find nearby clinics, and track their scan history in one integrated web experience.
 
 </div>
