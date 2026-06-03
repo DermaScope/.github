@@ -2,7 +2,8 @@
 
 DermaScope adalah proyek capstone yang dibuat untuk Coding Camp 2026 powered by DBS Foundation. Platform ini membantu pengguna melakukan pemindaian kulit awal, meninjau informasi risiko berbasis AI, menemukan klinik terdekat, dan melacak riwayat pemindaian dalam satu sistem yang terpadu.
 
-**🌍 Live Demo Front-End: [dermascopee.vercel.app](https://dermascopee.vercel.app)**  
+**Berikut kami lampirkan hasil deploy Front-End dan Back-End:**<br/>
+**🌍 Deploy Front-End: [dermascopee.vercel.app](https://dermascopee.vercel.app)**<br/>
 **⚙️ Repositori Back-End: [DermaScope/Backend-FS](https://github.com/DermaScope/Backend-FS)**
 
 
